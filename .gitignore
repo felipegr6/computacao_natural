@@ -1,0 +1,5 @@
+/env
+/myvenv
+.ipynb_checkpoints
+.vscode
+creditcard.csv

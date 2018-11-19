@@ -1,0 +1,17 @@
+\begin{table}[ht]
+\caption{Resultados da execução do ASN com algumas variações dos parâmetros de entrada}
+\label{table:1}
+\centering
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+\multicolumn{3}{|c|}{ENTRADAS} & \multicolumn{5}{c|}{SAÍDAS}                      \\ \hline
+$D_T$    & $l$     & $q$       & $D_R$     & $F_N$     & $F_P$  & t         & $a_{cc}$     \\ \hline
+100      & 1,4     & 2         & 35,16     & 64,83     & 0,10   & 6.92      & 99,81        \\ \hline
+200      & 1,2     & 1,5       & 17,27     & 82,72     & 0,01   & 15,37     & 99,84        \\ \hline
+200      & 1,9     & 1         & 74,39     & 25,61     & 0,47   & 8,07      & 99,32        \\ \hline
+200      & 1,7     & 1         & 73,98     & 26,01     & 0,92   & 8,61      & 99,60        \\ \hline
+300      & 1,9     & 1,5       & 79,67     & 20,32     & 0,82   & 12,18     & 99.50        \\ \hline
+500      & 1,7     & 1,5       & 71,54     & 28,45     & 0,62   & 21,56     & 99,10        \\ \hline
+1000     & 1,8     & 1,5       & 82,11     & 17,88     & 1,02   & 41,66     & 99,995       \\ \hline
+\end{tabular}
+\end{table}
